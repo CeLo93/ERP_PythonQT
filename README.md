@@ -11,8 +11,10 @@
 > A interface do sistema é intuitiva e amigável, permitindo que os usuários acessem facilmente as funcionalidades de cadastro, alteração e exclusão de clientes. Ao cadastrar um novo cliente, o sistema solicita as informações necessárias e as armazena no banco de dados. O usuário também pode atualizar informações existentes de um cliente, caso haja alguma alteração nos dados.
 
 > Além disso, com a funcionalidade de exclusão de clientes, caso um cliente não seja mais relevante para a empresa, o usuário pode selecionar o cliente desejado e removê-lo do banco de dados. É importante ressaltar que a exclusão de um cliente deve ser realizada com cuidado, levando em consideração as políticas e regulamentações aplicáveis.
+ 
+> #### Para acessar o arquivo, basta clicar da pasta dist e executá-lo. É importante que você tenha o MySQL instalado na sua máquina, visto o sistema ser localhost, então não terá como acessar caso contrário. Caso queira trabalhar nos scripts, eles estão disposto no diretório principal (não deu muito certo isolá-los em uma pasta anyway, por conta das dezenas de referências aos "icones.py" feitas indiretamente nos scripts principais)
 
- > ### Próximas melhorias:
+ > ## Próximas melhorias:
   * Adicionar funcionalidades dos demais botões e integrá-los ao MySQL;
   * Aprefeiçoar a interface gráfica;
   * Adicionar demais funcionalidades no software.
