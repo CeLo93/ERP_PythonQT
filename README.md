@@ -2,7 +2,7 @@
 :construction: <b> PROJETO EM CONSTRUÇÃO... </b> :construction: 
 <p>
  
- > Este é o meu projeto de um sistema ERP, ainda bem inicial, desenvolvido por mim, com funcionalidades de cadastro, alteração e exclusão de clientes, utilizando o banco de dados MySQL para armazenamento, consulta e exclusão direta dos dados.
+ > Então, este é o meu projeto de um sistema ERP, ainda bem inicial, desenvolvido por mim, com funcionalidades de cadastro, alteração e exclusão de clientes, utilizando o banco de dados MySQL para armazenamento, consulta e exclusão direta dos dados.
 
 > Esse sistema tem como objetivo fornecer uma solução simples e eficiente para a gestão de clientes em uma organização. Ele permite o cadastro de novos clientes, a atualização de informações existentes e a exclusão de  clientes do banco de dados. Utilizando o banco de dados MySQL, todas as informações dos clientes são armazenadas de forma segura e organizada. Para este projeto, até então, eu o hospedo em locahost, pois é um protótipo ainda.
 
